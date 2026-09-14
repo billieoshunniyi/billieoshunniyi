@@ -86,4 +86,4 @@ Test case design, defect tracking, stakeholder communication
 📍 Aberdeen, United Kingdom  
 📧 billieoshunniyi@gmail.com  
 🔗 [www.linkedin.com/in/billie-oshunniyi-b81233220 ] 
-💼 **Open to Data Scientist and Data Analyst roles across the UK**
+**Open to Data Scientist and Data Analyst roles across the UK**
