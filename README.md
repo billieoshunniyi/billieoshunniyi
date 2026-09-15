@@ -2,7 +2,7 @@
 
 MSc Data Science graduate from Robert Gordon University, Aberdeen.
 
-I am passionate about applying machine learning, deep learning and 
+I am passionate about applying machine learning, deep learning, data visualisation and 
 NLP to real-world problems by building systems that turn complex data 
 into clear, actionable insight.
 
