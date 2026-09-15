@@ -46,7 +46,7 @@ ETL Pipelines (SSIS), Data Warehousing (SSAS), SHAP Explainability
 
 **Spatiotemporal EV Charging Demand Forecasting**
 T-GCN graph neural network with SHAP explainability — MSc Dissertation
-🔗 [[Repository](https://github.com/billieoshunniyi/ev-charging-demand-forecasting) |  [Live App](link)
+🔗 [[Repository](https://github.com/billieoshunniyi/ev-charging-demand-forecasting) |  [Live App](https://billie-ev-charging.streamlit.app/)
 
 **Medical Text Classification — NLP Pipeline**
 End-to-end NLP system classifying 10,000+ medical abstracts across 
