@@ -28,8 +28,7 @@ Networks & SHAP Explainability**
   POI Lifestyle composition emerged as strongest predictor
 - Deployed interactive Streamlit application for scenario analysis
 
-🔗 [Repository](https://github.com/billieoshunniyi) | [Live App](your-streamlit-link)
-
+🔗 [Repository](https://github.com/billieoshunniyi) | [Live App](https://billie-ev-charging.streamlit.app/)
 ---
 
 ## Technical Skills
